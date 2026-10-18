@@ -1,0 +1,44 @@
+# Web & API
+fastapi
+uvicorn
+python-multipart
+jinja2
+python-dotenv
+httpx
+
+# Security & Auth
+pydantic
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]
+
+# LLMs & NLP
+groq
+openai
+huggingface-hub>=0.24.0
+ollama
+transformers
+datasets
+tqdm
+
+# Vector DB & Retrieval
+chromadb
+pinecone
+langchain
+langchain-chroma
+langchain-pinecone
+langchain-community
+langchain-openai
+langchain-ollama
+
+# Audio Processing (STT)
+funasr
+torch
+torchaudio
+soundfile
+librosa
+
+# Testing
+pytest
+pytest-asyncio
+pytest-mock
